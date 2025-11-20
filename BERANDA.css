@@ -96,7 +96,6 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     gap: 70px;
-    height: 200vh;
 }
 
 .menu-section img {
@@ -444,6 +443,6 @@ body {
     }
 
     .Title {
-        padding: 2px;
+        padding: 0.1px;
     }
 }
